@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: bc35610762a4f4149a55b3cfa3a19c02
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - UnifrakturCook
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: bbbfd1c7eb002924c8e703521a0081d1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
